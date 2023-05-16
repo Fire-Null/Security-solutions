@@ -4,7 +4,7 @@
 
 | آسیب پذیری‌ها      | 
 | ----------- |
-| عملیات انگشت‌نگاری|
+| [tt](https://github.com/Fire-Null/Security-solutions/tree/main/Finger%20Printing)|
 |شناسایی پورت‌های باز|
 |بررسی متدهای HTTP و سرآیندهای امنیتی|
 |HTTP Method|
