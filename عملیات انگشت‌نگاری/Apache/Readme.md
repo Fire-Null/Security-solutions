@@ -27,3 +27,4 @@
     sudo systemctl restart httpd    ## Redhat systems
     sudo systemctl restart apache2     ## Debian systems 
 ```
+![](https://github.com/Fire-Null/Security-solutions/blob/main/%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%20%D8%A7%D9%86%DA%AF%D8%B4%D8%AA%E2%80%8C%D9%86%DA%AF%D8%A7%D8%B1%DB%8C/Apache/restart-deb.png)
