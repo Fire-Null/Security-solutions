@@ -4,3 +4,4 @@
 1. فایل پیکربندی apache را باز کنید:
 sudo nano /etc/httpd/conf/httpd.conf    ## Redhat systems
 sudo nano /etc/apache2/conf-enabled/security.conf  ## Debian systems 
+2. trds
