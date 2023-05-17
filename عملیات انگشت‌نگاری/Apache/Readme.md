@@ -7,7 +7,7 @@ sudo nano /etc/apache2/conf-enabled/security.conf  ## Debian systems   `
 2. دستورالعمل‌های ***"ServerTokens"*** و ***"ServerSignature"*** را پیدا کنید، اگر وجود ندارد به فایل اضافه کنید و به صورت زیر آپدیت کنید:
 `ServerTokens Prod `
 
-    `ServerSignature Off`
+   `ServerSignature Off`
 
     #### دستورالعمل ***"ServerTokens Prod"*** به ***Apache*** می گوید که فقط کلمه ***"Apache"*** را بدون هیچ گونه اطلاعات نسخه نمایش دهد. دستورالعمل ***"ServerSignature Off"*** امضای سرور را در صفحات خطا غیرفعال می کند.
 
