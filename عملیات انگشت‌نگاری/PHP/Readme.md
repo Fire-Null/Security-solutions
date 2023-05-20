@@ -12,7 +12,7 @@
  ```bash
     expose_php = Off
 ```
-
+   ![](https://github.com/Fire-Null/Security-solutions/blob/main/%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%20%D8%A7%D9%86%DA%AF%D8%B4%D8%AA%E2%80%8C%D9%86%DA%AF%D8%A7%D8%B1%DB%8C/PHP/expose.png)
 3- این تنظیم، نمایش نسخه PHP را در پاسخ HTTP غیرفعال می‌کند.
     3. پس از ویرایش  و ذخیره  فایل php.ini، سرویس Apache را مجددا راه اندازی کنید تا تغییرات اعمال شوند:
 
