@@ -1,7 +1,8 @@
 
 ### برای فعال کردن HSTS در سرور آپاچی، مراحل زیر را دنبال کنید:
 1- فایل <Apache>/conf/httpd.conf را باز کنید.
-2- Header module را uncomment کنید
+
+    2- Header module را uncomment کنید
 ``` bash 
     LoadModule headers_module modules/mod_headers.so
 ```
