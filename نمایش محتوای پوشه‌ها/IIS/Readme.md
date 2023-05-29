@@ -11,5 +11,5 @@
  * به IIS Manager  رفته و به دنبال گزینه Directory Browser بگردید. آن را انتخاب کنید و در گوشه سمت راست گزینه Open Feature را کلیک کنید و به تب دیگری هدایت خواهید شد.سپس Disable را انتخاب کنید.
 
 ![](https://github.com/Fire-Null/Security-solutions/blob/main/%D9%86%D9%85%D8%A7%DB%8C%D8%B4%20%D9%85%D8%AD%D8%AA%D9%88%D8%A7%DB%8C%20%D9%BE%D9%88%D8%B4%D9%87%E2%80%8C%D9%87%D8%A7/IIS/image.png)
-![]([https://github.com/Fire-Null/Security-solutions/blob/main/%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%20%D8%A7%D9%86%DA%AF%D8%B4%D8%AA%E2%80%8C%D9%86%DA%AF%D8%A7%D8%B1%DB%8C/Apache/restart-deb.png](https://github.com/Fire-Null/Security-solutions/blob/main/%D9%86%D9%85%D8%A7%DB%8C%D8%B4%20%D9%85%D8%AD%D8%AA%D9%88%D8%A7%DB%8C%20%D9%BE%D9%88%D8%B4%D9%87%E2%80%8C%D9%87%D8%A7/IIS/image1.png))
+![](https://github.com/Fire-Null/Security-solutions/blob/main/%D9%86%D9%85%D8%A7%DB%8C%D8%B4%20%D9%85%D8%AD%D8%AA%D9%88%D8%A7%DB%8C%20%D9%BE%D9%88%D8%B4%D9%87%E2%80%8C%D9%87%D8%A7/IIS/image1.png)
 
