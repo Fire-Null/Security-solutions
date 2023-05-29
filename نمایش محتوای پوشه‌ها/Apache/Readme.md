@@ -16,8 +16,8 @@
 #### می‌توان با استفاده از .htaccess ، نیز directory listing را غیرفعال کرد:
 * فایل htaccess. را در دایرکتوری که می‌خواهید directory listing را غیرفعال کنید، باز کنید.
 
-```config
-  sudo vi /var/www/mysite/.htaccess
+```bash
+  $sudo vi /var/www/mysite/.htaccess
 ```
 * -Indexes  را به دستورالعمل Options در فایل .htaccess اضافه کنید
 
