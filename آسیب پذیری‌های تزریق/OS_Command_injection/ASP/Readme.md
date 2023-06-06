@@ -40,7 +40,7 @@
     </HTML>
     ```
 > در برنامه زیر ورودی دستور ping از کاربر گرفته می‌شود. و نتیجه به کاربر نشان داده نمی‌شود.
-``` asp
+```asp
 <%@ Page Language=&quotC#&quot Debug=&quottrue&quot Trace=&quotfalse&quot %>
 <%@ Import Namespace=&quotSystem.Diagnostics&quot %>
 <%@ Import Namespace=&quotSystem.IO&quot %>
@@ -140,7 +140,7 @@ void Page_Load(object sender, System.EventArgs e){
 </HTML>
 ```
 > ورودی کاربر نباید شامل برخی از کاراکتر ها مانند  & نباشد.
-``` asp
+```asp
 <%@ Page Language=&quotC#&quot Debug=&quottrue&quot Trace=&quotfalse&quot %>
 <%@ Import Namespace=&quotSystem.Diagnostics&quot %>
 <%@ Import Namespace=&quotSystem.IO&quot %>
