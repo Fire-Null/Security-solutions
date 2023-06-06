@@ -2,8 +2,8 @@
 ##### پیاده‌سازی SSL به معنای ایمن بودن سایت شما نیست. نسخه‌های منسوخ SSL مانند TLS 1.0، TLS 1.1 ضعیف شناخته می‌شوند و این پروتکل‌ها به آسیب‌پذیری‌های SSL و TLS مانند POODLE، BEAST و CRIME تمایل دارند.
 ###### متداول‌ترین مرورگرهای وب مانند کروم، فایرفاکس، safari و edge دیگر از TLS 1.0 و TLS 1.1 پشتیبانی نمی‌کنند.
 * برای پیاده‌سازی TLS 1.2 و TLS 1.3، باید دو فایل config را ویرایش کنیم:
-* * /etc/nginx/nginx.conf
-* * /etc/nginx/sites-available/default
+  * /etc/nginx/nginx.conf
+  * /etc/nginx/sites-available/default
 * خط زیر را در فایل nginx.conf بیابید
 ```bash
 ssl_protocols TLSv1 TLSv1.1 TLSv1.2; # Dropping SSLv3, ref: POODLE
