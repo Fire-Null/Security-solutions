@@ -12,10 +12,8 @@
 |[برشماری کاربران](https://github.com/Fire-Null/Security-solutions/tree/main/%D8%A8%D8%B1%D8%B4%D9%85%D8%A7%D8%B1%DB%8C%20%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%A7%D9%86)|
 |[سیاست‌های مناسب برای انتخاب گذرواژه](https://github.com/Fire-Null/Security-solutions/tree/main/%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA%E2%80%8C%D9%87%D8%A7%DB%8C%20%D9%85%D9%86%D8%A7%D8%B3%D8%A8%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%20%DA%AF%D8%B0%D8%B1%D9%88%D8%A7%DA%98%D9%87)|
 |[حمله جعل درخواست](https://github.com/Fire-Null/Security-solutions/tree/main/%D8%AD%D9%85%D9%84%D9%87%20%D8%AC%D8%B9%D9%84%20%D8%AF%D8%B1%D8%AE%D9%88%D8%A7%D8%B3%D8%AA)|
-
-|[مجوز کاربران-کنترل دسترسی](https://github.com/Fire-Null/Security-solutions/tree/main/%D9%85%D8%AC%D9%88%D8%B2%20%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%A7%D9%86-%DA%A9%D9%86%D8%AA%D8%B1%D9%84%20%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C)||[آسیب 
-
 |[آسیب پذیری‌های تزریق](https://github.com/Fire-Null/Security-solutions/tree/main/%D8%A2%D8%B3%DB%8C%D8%A8%20%D9%BE%D8%B0%DB%8C%D8%B1%DB%8C%E2%80%8C%D9%87%D8%A7%DB%8C%20%D8%AA%D8%B2%D8%B1%DB%8C%D9%82)|
+|[مجوز کاربران-کنترل دسترسی](https://github.com/Fire-Null/Security-solutions/tree/main/%D9%85%D8%AC%D9%88%D8%B2%20%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%A7%D9%86-%DA%A9%D9%86%D8%AA%D8%B1%D9%84%20%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C)|
 |[جلوگیری از هدایت مجدد نامناسب](https://github.com/Fire-Null/Security-solutions/tree/main/%D8%AC%D9%84%D9%88%DA%AF%DB%8C%D8%B1%DB%8C%20%D8%A7%D8%B2%20%D9%87%D8%AF%D8%A7%DB%8C%D8%AA%20%D9%85%D8%AC%D8%AF%D8%AF%20%D9%86%D8%A7%D9%85%D9%86%D8%A7%D8%B3%D8%A8)|
 |[مدیریت مناسب خطاها](https://github.com/Fire-Null/Security-solutions/tree/main/%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA%20%D9%85%D9%86%D8%A7%D8%B3%D8%A8%20%D8%AE%D8%B7%D8%A7%D9%87%D8%A7)|
 |[مدیریت مناسب استثنائات](https://github.com/Fire-Null/Security-solutions/tree/main/%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA%20%D9%85%D9%86%D8%A7%D8%B3%D8%A8%20%D8%A7%D8%B3%D8%AA%D8%AB%D9%86%D8%A7%D8%A6%D8%A7%D8%AA)|
