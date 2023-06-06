@@ -1,6 +1,8 @@
 ### حمله SSRF چیست؟
 #### Server-Side Request Forgery (SSRF) یک آسیب‌پذیری امنیتی وب است که به مهاجم اجازه می‌دهد تا برنامه سمت سرور را وادار کند تا درخواست‌های HTTP را به دامنه دلخواه خود به انتخاب مهاجم ارسال کند.
-![]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/Fire-Null/Security-solutions/blob/main/%D8%A2%D8%B3%DB%8C%D8%A8%20%D9%BE%D8%B0%DB%8C%D8%B1%DB%8C%E2%80%8C%D9%87%D8%A7%DB%8C%20%D8%AA%D8%B2%D8%B1%DB%8C%D9%82/SSRF/image2.png))
+
+![](https://github.com/Fire-Null/Security-solutions/blob/main/%D8%A2%D8%B3%DB%8C%D8%A8%20%D9%BE%D8%B0%DB%8C%D8%B1%DB%8C%E2%80%8C%D9%87%D8%A7%DB%8C%20%D8%AA%D8%B2%D8%B1%DB%8C%D9%82/SSRF/image2.png)
+
 
 #### تاثیر حملات SSRF چیست؟
 
