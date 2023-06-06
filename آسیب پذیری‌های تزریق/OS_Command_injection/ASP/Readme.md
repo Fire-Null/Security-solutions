@@ -1,7 +1,7 @@
 
 ### در برنامه زیر ورودی دستور ping از کاربر گرفته می‌شود. و نتیجه به کاربر نشان داده می‌شود.
 
-    ```asp
+   ```asp
     <%@ Page Language=&quotC#&quot Debug=&quottrue&quot Trace=&quotfalse&quot %>
     <%@ Import Namespace=&quotSystem.Diagnostics&quot %>
     <%@ Import Namespace=&quotSystem.IO&quot %>
